@@ -1,0 +1,17 @@
+{
+  "name": "flight-scraping-nodejs",
+  "version": "1.0.0",
+  "description": "Web scraper to get flight fares.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "viniciusgferreira <vinicius.gf@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^19.11.1"
+  }
+}
